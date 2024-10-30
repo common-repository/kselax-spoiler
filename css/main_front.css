@@ -1,0 +1,20 @@
+.cont{
+  border: 2px dashed gray;
+  display: none;
+  padding: 10px;
+}
+
+.expand.cont{
+  display: block;
+}
+
+.but{
+  color: #000;
+  background: transparent;
+}
+.but:hover, .but:focus{
+  text-decoration: underline;
+  outline: 0;
+  color: #000;
+  background: transparent;
+}
